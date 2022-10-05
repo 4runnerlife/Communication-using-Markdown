@@ -6,3 +6,6 @@
 printf("Hello World");
 ```
 
+- [x] Take out the trash
+- [x] Make coffee
+- [ ] Change oil in car
